@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0109/krp/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 女丹合編響月文通古佛旁門小術小引旁門者顯與道違者也小術者隱與道違者也夫大道至玄至妙至簡至易不雜一毫私意不參一毫欲念方是道根凡不合夫天地之氣運不合夫聖賢之正理不合夫性情之存發者皆屬旁門小術然旁門小術極多吾欲詳指之又恐傷忠厚吾欲隱忍之又恐誤後學故特將塵世之大壞心術大壞玄門者姑舉數十條以塞其流毒亦是拔出深淵救出火坑之婆心也凡修士有墮此術中者急早回頭亡羊補牢亦不為晚若疑感有信固執不通自害而復害人不惟不能結大緣而且難望好結果矣萬佛緣在邇當時修士共凜之三淸殿有路後世修士嚴辨之
+  hash: sha256:73518ad4fbac6b190417d6a88eb40033be7881ba2691f12f334ea038d076340e
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-EX_KR5i0109_22p001a}
+metadata:
+  title: 女丹合編
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:47:45.964359'
+  source:
+    repository: kanripo
+    path: KR5i0109/KR5i0109_022.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:de188118dd33509d59c2f1e23c195ee17d59dfb69b628e6cc4af78aadd714427

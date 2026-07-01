@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0109/CK-KZ/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 女丹合編西池集序蓋聞乾健統天坤順得主資生之道含二炁以絪緼交泰之和統三才而埏埴德言工貌坤道云全淑愼温柔閫儀斯著至於夙鍾靈氣生具慧姿錦織迴文猶受連波之憎豔霾同埋靑冢空歸夜月之魂其他霧鬢雲鬟沉迷苦海啼香怨粉塡入火坑五漏形骸本是前生業障三因不悟又增今世寃愆其間脩短窮通不能枚舉妍嗤愚智何可勝言總因世乏坤傳致使人難超劫是以奏請太上勅命羣眞闡心性於詩篇寄棒喝於轉語旣知寂靜恐墮頑空更有眞傳教渠下手言言玉液無非脩身立命之功字字金鍼盡是縛虎牽龍之訣果能誠心煅煉眼前卽是𢆯洲依法脩持鼎内便凝絳雪與其牽纒世網戀茲一息繁華何如斬斷情關占卻萬年道域西池有路度楫在茲聊綴巵言用申木鐸重陽子謹序
+  hash: sha256:1db8a8190426ff93787ce759421e2553f2bc3c0e1580864dc39a2fef2d1e4938
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-EX_KR5i0109_17p001a}
+metadata:
+  title: 女丹合編
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 17:47:45.964359'
+  source:
+    repository: kanripo
+    path: KR5i0109/KR5i0109_017.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:bc225896dd6f7c721b3af425dbe75d3db1a715b5ec8f07290ae3e588a3118bf4

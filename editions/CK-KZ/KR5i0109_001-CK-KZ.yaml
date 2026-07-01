@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0109/CK-KZ/v1/juan/1
+seq: 1
+front:
+  text: 女丹合編女丹合編總目
+  hash: sha256:388370987cf2b897974f6ba1873ab713b0f8e96112a00ae61ae59511da887afe
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-EX_KR5i0109_01p001a}
+body:
+  text: 坤訣女丹十則樵陽經女工脩煉女丹煉已還丹圖說女丹撮要女丹彙解西池集女丹詩集前編女丹詩集後編女眞丹訣女丹要言旁門錄
+  hash: sha256:e8a5c3f893e97c6e806ddf02a70560f9032e2bff9e0c24e04368bcc83d81f871
+metadata:
+  title: 女丹合編
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 17:47:45.964359'
+  source:
+    repository: kanripo
+    path: KR5i0109/KR5i0109_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:9b78ad79523b02758fbd4715fcf31e08927e177c5a15b0aec7ed506c8dd2cf77

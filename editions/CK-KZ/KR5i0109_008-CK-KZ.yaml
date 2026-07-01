@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0109/CK-KZ/v1/juan/8
+seq: 8
+front:
+  text: 女丹合編女金丹序大道不問男女皆能有成故男子道成爲眞人女子道成爲元君自來丹經言男子修煉之功至詳且悉女子修煉之道多不論及間有論及此者不過略露一班非薄女修也推其意以爲人同此性命卽同一功夫言男修而女子之功不煩言解矣不知男子外陽内陰女子外陰内陽秉性不同形骸各別雖同一性命其行持大有不同者修眞辨難曰男子下手以煉氣爲要女子下手以煉形爲要許祖曰男子修成不漏精女子修成不漏經其初關迴然各別至煉已得藥還丹温養結胎出神諸事雖與男子同而細微節次未嘗不無大同小異之殊壬辰春適有坤女問道僕敎以多看古書證其所授而丹經言女修者獨少難以考證異同爰不恤洩漏天機之罪因將其所以同者何如所以異者何如並逐節次第何如形於楮墨以爲問津程途俾得尋文釋義不致魚目以混珠深知力行庶幾金鼎可烹汞以成無上至道而方諸瑤池之會不難與男仙同謁木公共拜金母矣
+  hash: sha256:614554e5bf7262becbfb9d777f81b4d6230579f20e03759b3002a7de8d645cda
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-EX_KR5i0109_08p001a}
+body:
+  text: 旹大淸光緒壬辰𡻕中和月用中貞一子序於玉帶溪之臥雲西軒
+  hash: sha256:a84dd3736825ce69bc2919b722c5a25fb2c3b3c014f1ec908889967d28325fa0
+metadata:
+  title: 女丹合編
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 17:47:45.964359'
+  source:
+    repository: kanripo
+    path: KR5i0109/KR5i0109_008.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:56ada86cee4a47e8f1dba50e5f2d63a6960f88109abee539ba3e64449b797af2
