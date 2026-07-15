@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 4, content: '', id: CK-EX_KR5i0109_01p001a}
 body:
-  text: 坤訣女丹十則樵陽經女工脩煉女丹煉已還丹圖說女丹撮要女丹彙解西池集女丹詩集前編女丹詩集後編女眞丹訣女丹要言旁門錄
-  hash: sha256:e8a5c3f893e97c6e806ddf02a70560f9032e2bff9e0c24e04368bcc83d81f871
+  text: 坤訣女丹十則樵陽經女工修煉女丹煉已還丹圖説女丹撮要女丹彙解西池集女丹詩集前編女丹詩集後編女真丹訣女丹要言旁門録
+  hash: sha256:c0eafaf2c6f1134705614e420fc9a8155008727038cd6aded945adf35f12da68
 metadata:
   title: 女丹合編
   edition:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:fcf197af37ce9f323e71d8fe33eb5d3326bddd44f1875b228cf167ecca5d99fc
+hash: sha256:986017a91c3db6f6d95492c7cdef9db0328ff24a1b17140aa5b8644f088677dd
