@@ -94,6 +94,7 @@ markers:
       ', id: KR5i0109_krp_008-bkkkrnewl19}
   - {type: line-break, offset: 218, content: '', id: CK-EX_KR5i0109_08p001b04}
   - {type: punctuation, offset: 229, content: (, id: KR5i0109_krp_008-bkkpn1}
+  - {type: voice, offset: 229, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 230, content: ), id: KR5i0109_krp_008-bkkpn2}
   - {type: substitution, offset: 230, original: 敎, replacement: 教, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20071}}
   - {type: 'kr:newline', offset: 239, content: '
@@ -159,4 +160,4 @@ markers:
 
       ', id: KR5i0109_krp_008-bkkkrnewl8}
   back: []
-hash: sha256:0fae339a14f93da6c1f16c496bd4950e860685f6a5c33189be2b603bc7ea5559
+hash: sha256:d3b5f5fc3edb555ce283d5b852e81e2be042b774175d15d4edab7ca704d30bee
